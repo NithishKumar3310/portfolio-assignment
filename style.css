@@ -1,4 +1,4 @@
-/* Reset browser default styles */
+
 
 *{
 margin:0;
@@ -9,7 +9,7 @@ font-family:Arial, Helvetica, sans-serif;
 
 
 
-/* Body */
+
 
 body{
 background:#0f172a;
@@ -19,7 +19,7 @@ line-height:1.6;
 
 
 
-/* Navbar */
+
 
 nav{
 background:#020617;
@@ -34,7 +34,7 @@ color:#38bdf8;
 
 
 
-/* Sections */
+
 
 section{
 padding:40px 12%;
@@ -43,7 +43,7 @@ text-align:center;
 
 
 
-/* Headings */
+
 
 h1{
 font-size:38px;
@@ -57,7 +57,7 @@ margin-bottom:20px;
 
 
 
-/* Paragraph */
+
 
 p{
 margin-bottom:15px;
@@ -65,7 +65,7 @@ margin-bottom:15px;
 
 
 
-/* Hero buttons */
+
 
 .hero-links a{
 display:inline-block;
@@ -79,7 +79,7 @@ text-decoration:none;
 
 
 
-/* Hover effect */
+
 
 .hero-links a:hover{
 background:#38bdf8;
@@ -88,7 +88,7 @@ color:#020617;
 
 
 
-/* Skills */
+
 
 .skills{
 list-style:none;
@@ -109,7 +109,7 @@ color:#020617;
 
 
 
-/* Projects */
+
 
 .project-container{
 display:flex;
@@ -132,7 +132,7 @@ color:#020617;
 
 
 
-/* Achievements */
+
 
 .achievements{
 display:flex;
@@ -160,7 +160,7 @@ margin-bottom:10px;
 
 
 
-/* Footer */
+
 
 footer{
 background:#020617;
