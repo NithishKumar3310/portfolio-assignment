@@ -4,6 +4,13 @@ This is my personal portfolio website built using HTML and CSS, designed to show
 
 ---
 
+## Portfolio Link
+
+The live website can be accessed here:  
+https://nithishkumar3310.github.io/portfolio-assignment/
+
+---
+
 ## Website Structure
 
 ### 1. Navbar
